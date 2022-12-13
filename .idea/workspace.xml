@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="49a6909c-efe7-41b3-891a-721b4498c0d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Advent of Code Problems.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_1/D1_Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_10/D10_Example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_10/D10_Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_10/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_2/D2_Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_3/D3_Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_4/D4_Example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_4/D4_Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_5/D5_Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_6/D6_Example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_6/D6_Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_7/D7_Example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_7/D7_Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_7/FilesystemTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_8/D8_Example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_8/D8_Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_9/D9_Example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_9/D9_Example2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_9/D9_Input.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_9/Rope.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Day_9/RopeChain.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ImiPFX1lNSLueeQsI2Ptd9KZzz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="49a6909c-efe7-41b3-891a-721b4498c0d3" name="Changes" comment="" />
+      <created>1670793135702</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670793135702</updated>
+      <workItem from="1670793137009" duration="34134000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
